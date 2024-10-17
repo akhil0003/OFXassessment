@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  max-width: 400px;
+
+  font-family: "Nunito Sans";
+  color: #0b1a3f;
+}
+
+.input {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  max-width: 400px;
+  width: 400px;
+  height: 48px;
+  background: #fff;
+  border: 1px solid #e5e5e5;
+  border-radius: 4px;
+  padding: 0 12px;
+}
